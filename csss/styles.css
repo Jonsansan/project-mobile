@@ -5,10 +5,28 @@
  */
 
 div[class^="col"] {
-  min-height: 50px;
+  min-height: 808px;
   border: 1px solid #000;
+}
+
+.custom-height {
+  background-color: #d9d9d9;
+  min-width: 153px;
 }
 
 .row {
   border: 1px dashed red;
+}
+
+.user {
+  text-align: end;
+  left: 0;
+}
+
+.purple {
+  width: 50px;
+  text-align: start;
+}
+
+.text {
 }
