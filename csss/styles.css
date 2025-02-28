@@ -18,15 +18,20 @@ div[class^="col"] {
   border: 1px dashed red;
 }
 
-.user {
-  text-align: end;
-  left: 0;
-}
-
 .purple {
   width: 50px;
   text-align: start;
 }
 
-.text {
+.icon-container {
+  display: flex;
+  align-items: center; /* Align items vertically centered */
+}
+
+.icon {
+  margin-left: 10px; /* Add some space between the radio button and the icon */
+}
+
+.row-text {
+  background-color: bisque;
 }
