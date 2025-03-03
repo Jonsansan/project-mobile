@@ -33,5 +33,6 @@ div[class^="col"] {
 }
 
 .row-text {
-  background-color: bisque;
+  display: flex;
+  align-items: center; /* Align items vertically centered */
 }
