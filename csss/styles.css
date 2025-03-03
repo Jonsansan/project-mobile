@@ -1,8 +1,4 @@
-/**
- * border styles for grid
- *
- * @format
- */
+/** @format */
 
 div[class^="col"] {
   min-height: 808px;
